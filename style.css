@@ -91,3 +91,12 @@ footer {
   height: 20px;
 }
 
+.vote-button {
+    color:#e6f7ff;
+  background-color:#00b3b3;
+}
+
+.vote-button:hover{
+  background-color: #009999;
+}
+
